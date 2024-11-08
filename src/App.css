@@ -1,0 +1,9 @@
+.banner-image{
+    background-image: url('../src/assets/images/bg-shadow.png');
+
+}
+
+.active{
+    background-color: rgb(231, 254, 41);
+    font-weight: bold;
+}

@@ -1,0 +1,93 @@
+
+[
+      {
+        "playerId": 1,
+        "name": "Virat Kohli",
+        "image": "https://i.ibb.co.com/Z66X0w5/6375791.jpg",
+        "country": "India",
+        "role": "Batsman",
+        "battingType": "Right-handed",
+        "bowlingType": "Right-arm medium",
+        "biddingPrice": 15000000
+      },
+      {
+        "playerId": 2,
+        "name": "Rohit Sharma",
+        "image": "https://i.ibb.co.com/MPFcZX7/6403767.jpg",
+        "country": "India",
+        "role": "Batsman",
+        "battingType": "Right-handed",
+        "bowlingType": "Right-arm offbreak",
+        "biddingPrice": 12000000
+      },
+      {
+        "playerId": 3,
+        "name": "David Warner",
+        "image": "https://i.ibb.co.com/GsfP47Q/6392011.jpg",
+        "country": "Australia",
+        "role": "Batsman",
+        "battingType": "Left-handed",
+        "bowlingType": "Right-arm legbreak",
+        "biddingPrice": 10000000
+      },
+      {
+        "playerId": 4,
+        "name": "Jasprit Bumrah",
+        "image": "https://i.ibb.co.com/Z66X0w5/6375791.jpg",
+        "country": "India",
+        "role": "Bowler",
+        "battingType": "Right-handed",
+        "bowlingType": "Right-arm fast",
+        "biddingPrice": 20000000
+      },
+      {
+        "playerId": 5,
+        "name": "Pat Cummins",
+        "image": "https://i.ibb.co.com/MPFcZX7/6403767.jpg",
+        "country": "Australia",
+        "role": "Bowler",
+        "battingType": "Right-handed",
+        "bowlingType": "Right-arm fast",
+        "biddingPrice": 18000000
+      },
+      {
+        "playerId": 6,
+        "name": "Kane Williamson",
+        "image": "https://i.ibb.co.com/GsfP47Q/6392011.jpg",
+        "country": "New Zealand",
+        "role": "Batsman",
+        "battingType": "Right-handed",
+        "bowlingType": "Right-arm offbreak",
+        "biddingPrice": 14000000
+      },
+      {
+        "playerId": 7,
+        "name": "Andre Russell",
+        "image": "https://i.ibb.co.com/Z66X0w5/6375791.jpg",
+        "country": "West Indies",
+        "role": "All-rounder",
+        "battingType": "Left-handed",
+        "bowlingType": "Right-arm fast",
+        "biddingPrice": 16000000
+      },
+      {
+        "playerId": 8,
+        "name": "Rashid Khan",
+        "image": "https://i.ibb.co.com/MPFcZX7/6403767.jpg",
+        "country": "Afghanistan",
+        "role": "Bowler",
+        "battingType": "Right-handed",
+        "bowlingType": "Legbreak",
+        "biddingPrice": 12000000
+      },
+      {
+        "playerId": 9,
+        "name": "Chris Gayle",
+        "image": "https://i.ibb.co.com/GsfP47Q/6392011.jpg",
+        "country": "West Indies",
+        "role": "Batsman",
+        "battingType": "Left-handed",
+        "bowlingType": "Right-arm offbreak",
+        "biddingPrice": 10000000
+      }
+    ]
